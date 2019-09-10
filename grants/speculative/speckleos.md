@@ -3,7 +3,7 @@
 ## Project Description
 
 We are building a universal user interface for Polkadot, Substrate and Web 3. This involves three parts:
-1.	Speckle Browser: a front-end browser specialized for a web of connected chains;
+1.	Speckle Browser: a front-end browser specialized for a web of connected chains; 
 2.	Speckle Parachain: a back-end parachain that handles identity, account management and communication; and
 3.	Speckle Box: the speckle-ui framework for substrate-based chains.
 The front-end that acts as a universal user interface for Polkadot and its parachains. This closest similarity would be Metamask and Status; however, a user interface for a connected web of chains requires significant innovation to the user experience as opposed to an interface for a single chain. As part of this innovation, we will be deploying a parachain back-end to handle account management, identity and communication across the Polkadot Network. Further, this will be repurposed into a general UI framework for substrate-based chains. This will allow substrate chains to quickly deploy their own UI and modify its feature-set to suit their consensus and governance modules.
