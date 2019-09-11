@@ -1,21 +1,21 @@
 # Bullet-Substrate tool
 ## Project Description
-This project is an privacy-protecting tool kit fot parachain based on the bullet-proof protocol. Bullet-Substrate tool is basically designed as a privacy tool for blockchain based on Substrat to impletement privacy transaction. 
+This project is an privacy-protecting tool kit fot parachain based on the Bullet-proof protocol. Bullet-Substrate tool is basically designed as a privacy tool for blockchain based on Substrate to impletement private transaction. 
 
-The comparison of bullet-proof and other privacy techniques can be found here :https://eprint.iacr.org/2019/099.pdf
+The comparison of Bullet-proof and other privacy techniques can be found [Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings](https://eprint.iacr.org/2019/099.pdf) 
 
 
-The outstanding features of Bulletchain are following:
+And here we get the outstanding features of Bullet-Substrate are as following:
 
 * according to the features of Bullet-proof, we do not need any trusted party or MPC to do pre-setup
 
-* according to the features of Bullet-proof, with shorted proof, the tool kit will be specially suitable for the  parachain in which the resource consume money
+* according to the features of Bullet-proof, with shorted proof, the tool kit will be specially suitable for the  parachain where the the use of the resource (storage and the size of the message) may  consume money
 
-* The enhancement for the Bullet-proof time consuming 
+* The enhancement for the Bullet-proof time complexity 
     
-* This project is the first privacy implemet for account module based on Bullet-proof 
+* This project is the first private impletementation for account module based on Bullet-proof protocol
 
-* Customized develent for bullet-proof for substrate
+* Customized development for bullet-proof for substrate
 
 The high level principle is as follows.
 
@@ -41,7 +41,7 @@ Newstyle tech corporation is a comprehensive corporation for live boardcast, blo
 Prof Yongge Wang is currently a full-time professor at the University of North Carolina at CharlotteProfessor. Wang's proposed post-quantum cryptographic algorithm RLCE has been selected as a candidate for the post-quantum standard of the NIST. In addition, Professor Wang has been actively involved in the development of a large number of protocol standards: for example, IETF, W3C XML protocol, IEEE 1363 protocol and SAN Internet Security Protocol.In this project, Prof Yongge Wang is responsible for the optimization for the Bullet-proof
 
 
-Dr.Yunchuan Wei worked as a rocket engneer for the China Aerospace Science and Technology Corporation, and reponsible for the , in this project, Dr.Yunchuan Wei will responsible for the software arctecture, and safety aspect.
+Dr.Yunchuan Wei worked as a rocket engneer for the China Aerospace Science and Technology Corporation, and reponsible for the software design and software vulnerability, in this project, Dr.Yunchuan Wei will responsible for the software Architecture, and safety aspect.
 
 
 
@@ -57,8 +57,8 @@ The milestones are spread out over a total of 3 months as following:
 
 * M1: Implementation of the optimization for the Bullet-proof protocol (3 weeks)
 * M2: Construct blockchain called BulletChain based on substrate, and a simple wallet(1 week)
-* M3: Implementation of value atransaction fee to (2 weeks)
-* M4: Implementation of privacy transactions(4 weeks)
+* M3: Implementation of balance privacy (2 weeks)
+* M4: Implementation of adress privacy transactions(4 weeks)
 
 
 ## Additional Information
