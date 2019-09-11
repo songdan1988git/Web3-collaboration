@@ -23,9 +23,12 @@ The outstanding features of Bullet-Zokrates are following:
 The high level principle is as follows(which is form the paper of the Zokrates, but can also illustrate the points).
 
 <div align="center">
-<img src="" width="600px">
+<img src="https://user-images.githubusercontent.com/19221132/64675636-375cd080-d4a6-11e9-992e-3b9639fa9770.png" width="600px">
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/19221132/64675713-712dd700-d4a6-11e9-9011-1509f661b873.png" width="600px">
+</div>
 
 ## Team Members
 
