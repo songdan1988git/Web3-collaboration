@@ -20,11 +20,9 @@ The outstanding features of Bulletchain are following:
 The high level principle is as follows.
 
 <div align="center">
-<img src="" width="600px">
+<img src="https://user-images.githubusercontent.com/19221132/64667620-ff955f00-d48c-11e9-8637-6c92b47a17cc.png" width="600px">
 </div>
 
-You can find more details here:
-https://medium.com/layerx/announcing-zerochain-5b08e158355d
 
 ## Team Members
 
