@@ -7,18 +7,13 @@ framework can be used to
 * Reduce data storage on the chain 
 * Reduce the amount of computation on the chain.
 
-
-
-
-
-This project is an analogous famework based on Bullet-proof and provide toolchain for the parachain in polkadot, to enhancement the Scalability and can be used as a expansio nmechanism  
-
+This project is an analogous famework based on Bullet-proof and provide toolchain for the parachain in polkadot, to enhancement the Scalability and can be used as a expansion nmechanism  
 
 The outstanding features of Bullet-Zokrates are following:
 
-* Based on the features of Bullet-proof, we do not need any trusted party or MPC to do pre-setup
-* Based on the features of Bullet-proof, the proof is more shorted than zksnark
-* provide toolchain for the entire framework parachain
+* Comprared with zksnarks, Bullet-Zokrates do not need any trusted party or MPC to do pre-setup
+* Comprared with zksnarks, the proof is more shorter
+* Provide toolchain for the entire framework on Parachain
 
 The high level principle is as follows(which is form the paper of the Zokrates, but can also illustrate the points).
 
@@ -32,8 +27,9 @@ The high level principle is as follows(which is form the paper of the Zokrates, 
 
 ## Team Members
 
-* Prof Yongge Wang
 * Dr.Yunchuan Wei
+* Daniel Song
+* Zijie Li
 
 ## Team Website
 
@@ -42,37 +38,44 @@ http://sperax.io
 .Ltd
 
 ## Team's experience
-Newstyle tech corporation is a comprehensive corporation for live boardcast, blockchain, exchanges.Blockchain department is devided into some separeted projects, like public chain and tool kit for some famous pbulic chain. Bullet-Substrate is a privacy tool kit project specific for polkadot. 
 
-Prof Yongge Wang is currently a full-time professor at the University of North Carolina at CharlotteProfessor. Wang's proposed post-quantum cryptographic algorithm RLCE has been selected as a candidate for the post-quantum standard of the NIST. In addition, Professor Wang has been actively involved in the development of a large number of protocol standards: for example, IETF, W3C XML protocol, IEEE 1363 protocol and SAN Internet Security Protocol.In this project, Prof Yongge Wang is responsible for the optimization for the Bullet-proof
+[Consultant]
+
+* Dr.Yunchuan Wei :Worked as a rocket engneer for the China Aerospace Science and Technology Corporation, and master in technology of information security field. In this project, Dr.Yunchuan Wei will responsible for cryptographic algorithem, and security aspect.
+
+[Developer]
+
+* Daniel Song: Worked for the China Aerospace Science and Technology Corporation, and master the software security design. Have worked in Blockchain industry as a bottom layer developer for three years, familiar with cryptographic library, e.g., libsnark, bellman, off-chain Computation/on-chain verification framework.
 
 
-Dr.Yunchuan Wei worked as a rocket engneer for the China Aerospace Science and Technology Corporation, and reponsible for the , in this project, Dr.Yunchuan Wei will responsible for the software arctecture, and safety aspect.
+* Zijie Li: Three years of Internet development experience,familiar with distributed and high concurrency.Two years of block chain experience, familiar with various wallet features and consensus.Similarly, familiar with various cryptographic algorithms. e.g.,Zero—Knowledge Proof,Ellipse Curve Cryptography,etc
+
 
 
 
 ## Team Code Repos
 
 ## Team LinkedIn Profiles
-https://www.linkedin.com/in/yongge-wang-8680706/
-
 https://www.linkedin.com/in/frank-yunchuan-wei-226723144/
 
-## Development Roadmap
-The milestones are spread out over a total of 3 months as following:
 
-* M1: Implementation a new Zokrates called Bullet-Zokrates based on the Bullet-proof protocol refer to Zokrates (3 weeks)
-* M2: Construct toolchain for the parachain in polkadot (1 week)
+## Development Roadmap
+The milestones are spread out over a total of 2 months as following:
+
+* M1: Implementation a new Zokrates called Bullet-Zokrates based on the Bullet-proof protocol refer to Zokrates (4 weeks)
+
+
+* M2: Construct toolchain for the parachain in polkadot (4 week)
 
 
 
 ## Additional Information
 ### What work has been done so far?
-Try to modify and apply the Zokrates toolchain to parachain
+try to impletement Bullet-Zokrates based on Bullet-proof refer to Zokrates 
 
 
 ### Have you applied for other grants so far?
-Yes.
+No.
 
 ### Are there any other projects similar to yours?
 No.
