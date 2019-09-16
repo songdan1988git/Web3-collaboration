@@ -1,7 +1,6 @@
 # Bullet-Zokrates tool
 ## Project Description
-2018 Jacob Eberhardt and Stefan Tai, Ph.D. students from the Technical University of Berlin, Germany, proposed a processing framework [Zokrates](https://www.ise.tu-berlin.de/fileadmin/fg308/publications/2018/2018_eberhardt_ZoKrates.pdf) based on zk-snarks for off-chain computing/on-chain verification and provided a toolchain for the entire framework on Ethereum. The off-chain computing/on-chain verification
-framework can be used to 
+2018 Jacob Eberhardt and Stefan Tai, Ph.D. students from the Technical University of Berlin, Germany, proposed a processing framework [Zokrates](https://www.ise.tu-berlin.de/fileadmin/fg308/publications/2018/2018_eberhardt_ZoKrates.pdf) based on zk-snarks for off-chain computing/on-chain verification and provided a toolchain for the entire framework on Ethereum. The off-chain computing/on-chain verification framework can be used to 
 
 * Provide privacy 
 * Reduce data storage on the chain 
@@ -27,7 +26,7 @@ The high level principle is as follows(which is form the paper of the Zokrates, 
 
 ## Team Members
 
-* Dr.Yunchuan Wei
+* Dr.Yunchuan Wei[Consultant]
 * Daniel Song 
 * Zijie Li 
 
@@ -45,10 +44,10 @@ http://sperax.io
 
 [Developer]
 
-* Daniel Song: Worked for the China Aerospace Science and Technology Corporation, and master the software security design. Have worked in Blockchain industry as a bottom layer developer for three years, familiar with cryptographic library, e.g., libsnark, bellman, off-chain Computation/on-chain verification framework.[github](https://github.com/songdan1988git)
+* Daniel Song: Worked for the China Aerospace Science and Technology Corporation, and master the software security design. Have worked in Blockchain industry as a bottom layer developer for three years, familiar with cryptographic library, e.g., libsnark, bellman, off-chain Computation/on-chain verification framework.[Daniel Song Github](https://github.com/songdan1988git)
 
 
-* Zijie Li: Three years of Internet development experience,familiar with distributed and high concurrency.Two years of block chain experience, familiar with various wallet features and consensus.Similarly, familiar with various cryptographic algorithms. e.g.,Zero—Knowledge Proof,Ellipse Curve Cryptography,etc.[github]()
+* Zijie Li: Three years of Internet development experience,familiar with distributed and high concurrency.Two years of block chain experience, familiar with various wallet features and consensus.Similarly, familiar with various cryptographic algorithms. e.g.,Zero—Knowledge Proof,Ellipse Curve Cryptography,etc.[Zijie Li Github](https://github.com/mcgamcga)
 
 
 
