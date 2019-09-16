@@ -28,8 +28,8 @@ The high level principle is as follows(which is form the paper of the Zokrates, 
 ## Team Members
 
 * Dr.Yunchuan Wei
-* Daniel Song
-* Zijie Li
+* Daniel Song 
+* Zijie Li 
 
 ## Team Website
 
@@ -45,18 +45,15 @@ http://sperax.io
 
 [Developer]
 
-* Daniel Song: Worked for the China Aerospace Science and Technology Corporation, and master the software security design. Have worked in Blockchain industry as a bottom layer developer for three years, familiar with cryptographic library, e.g., libsnark, bellman, off-chain Computation/on-chain verification framework.
+* Daniel Song: Worked for the China Aerospace Science and Technology Corporation, and master the software security design. Have worked in Blockchain industry as a bottom layer developer for three years, familiar with cryptographic library, e.g., libsnark, bellman, off-chain Computation/on-chain verification framework.[github](https://github.com/songdan1988git)
 
 
-* Zijie Li: Three years of Internet development experience,familiar with distributed and high concurrency.Two years of block chain experience, familiar with various wallet features and consensus.Similarly, familiar with various cryptographic algorithms. e.g.,Zero—Knowledge Proof,Ellipse Curve Cryptography,etc
+* Zijie Li: Three years of Internet development experience,familiar with distributed and high concurrency.Two years of block chain experience, familiar with various wallet features and consensus.Similarly, familiar with various cryptographic algorithms. e.g.,Zero—Knowledge Proof,Ellipse Curve Cryptography,etc.[github]()
 
 
-
-
-## Team Code Repos
 
 ## Team LinkedIn Profiles
-https://www.linkedin.com/in/frank-yunchuan-wei-226723144/
+[Dr.Yunchuan Wei](https://www.linkedin.com/in/frank-yunchuan-wei-226723144/)
 
 
 ## Development Roadmap
