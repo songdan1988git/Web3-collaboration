@@ -20,13 +20,13 @@ The outstanding features of Bullet-Substrate are as following:
 The high level principle is as follows.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/19221132/64667620-ff955f00-d48c-11e9-8637-6c92b47a17cc.png" width="600px">
+<img src="https://user-images.githubusercontent.com/19221132/65102812-ec3f4200-d9fe-11e9-8f5d-0c4f1d3322ec.png" width="600px">
 </div>
 
 
 ## Team Members
 
-* Prof Yongge Wang[Consultants]
+* Prof Yongge Wang[Consultant]
 * Wenyao Hai
 * Fei Zhou
 
@@ -55,11 +55,10 @@ http://sperax.io
 ## Development Roadmap
 The milestones are spread out over a total of 3 months as following:
 
-* M1: Implementation of the optimization for the Bullet-proof protocol (3 weeks)
-* M2: Construct blockchain called BulletChain based on substrate, and a simple wallet(1 week)
-* M3: Implementation of balance privacy (2 weeks)
-* M4: Implementation of adress privacy (4 weeks)
-
+* M1: Implementation of the optimization for the Bullet-proof protocol (4 weeks)
+* M2: Construct blockchain called BulletChain based on substrate, and a simple wallet(2 week)
+* M3: Implementation of balance privacy (4 weeks)
+* M4: Implementation of a confidential contract assets (2 weeks)
 
 ## Additional Information
 ### What work has been done so far?
