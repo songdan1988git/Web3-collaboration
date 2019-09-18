@@ -67,7 +67,7 @@ The milestones are spread out over a total of 2 months as following:
 
 ## Additional Information
 ### What work has been done so far?
-try to impletement Bullet-Zokrates based on Bullet-proof refer to Zokrates 
+Try to impletement Bullet-Zokrates based on Bullet-proof refer to Zokrates 
 
 
 ### Have you applied for other grants so far?
