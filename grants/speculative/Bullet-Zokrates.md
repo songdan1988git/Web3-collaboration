@@ -10,8 +10,8 @@ This project is an analogous famework based on Bullet-proof and provide toolchai
 
 The outstanding features of Bullet-Zokrates are following:
 
-* Comprared with zksnarks, Bullet-Zokrates do not need any trusted party or MPC to do pre-setup
-* Comprared with zksnarks, the proof is more shorter
+* Comprared with Zokrates, Bullet-Zokrates do not need any trusted party or MPC to do pre-setup
+* Comprared with Zokrates, the proof in the Bullet-Zokrates is more shorter
 * Provide toolchain for the entire framework on Parachain
 
 The high level principle is as follows(which is form the paper of the Zokrates, but can also illustrate the points).
