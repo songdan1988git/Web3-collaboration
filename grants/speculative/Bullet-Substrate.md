@@ -13,7 +13,7 @@ The outstanding features of Bullet-Substrate are as following:
 
 * The enhancement for time complexity in the Bullet-proof
     
-* This project is the first Private transaction impletementation for account module based on Bullet-proof protocol
+* This project is the first privacy transaction impletementation for account module based on Bullet-proof protocol
 
 * Customized development for Bullet-proof for substrate
 
