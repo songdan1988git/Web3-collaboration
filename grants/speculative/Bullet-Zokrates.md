@@ -40,7 +40,7 @@ http://sperax.io
 
 [Consultant]
 
-* Dr.Yunchuan Wei :Worked as a rocket engneer for the China Aerospace Science and Technology Corporation, and master in technology of information security field. In this project, Dr.Yunchuan Wei will responsible for cryptographic algorithem, and security aspect and off-chain Computation/on-chain verification framework design.
+* Dr.Yunchuan Wei :Worked as a rocket engneer for the China Aerospace Science and Technology Corporation, and master in technology of information security field. In this project, Dr.Yunchuan Wei will serve as a consultant for cryptographic algorithem, and security aspect and off-chain Computation/on-chain verification framework design.
 
 [Developer]
 
