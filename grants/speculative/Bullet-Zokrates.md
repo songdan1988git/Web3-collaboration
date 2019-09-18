@@ -6,7 +6,7 @@
 * Reduce data storage on the chain 
 * Reduce the amount of computation on the chain.
 
-This project is an analogous famework based on Bullet-proof and provide toolchain for the parachain in polkadot, to enhancement the Scalability and can be used as a expansion nmechanism  
+This project is an analogous famework based on Bullet-proof and provide toolchain for the parachain in polkadot, to enhancement the Scalability and can be used as an expansion mechanism  
 
 The outstanding features of Bullet-Zokrates are following:
 
@@ -40,11 +40,11 @@ http://sperax.io
 
 [Consultant]
 
-* Dr.Yunchuan Wei :Worked as a rocket engneer for the China Aerospace Science and Technology Corporation, and master in technology of information security field. In this project, Dr.Yunchuan Wei will serve as a consultant for cryptographic algorithem, and security aspect and off-chain Computation/on-chain verification framework design.
+* Dr.Yunchuan Wei :Worked as a rocket engneer for the China Aerospace Science and Technology Corporation, and master in technology of information security field. In this project, Dr.Yunchuan Wei will serve as a consultant for cryptographic algorithem, and security aspect and off-chain computing/on-chain verification framework design.
 
 [Developer]
 
-* Daniel Song: Worked for the China Aerospace Science and Technology Corporation, and master the software security design. Have worked in Blockchain industry as a bottom layer developer for three years, familiar with cryptographic library, e.g., libsnark, bellman, off-chain Computation/on-chain verification framework.[Daniel Song Github](https://github.com/songdan1988git)
+* Daniel Song: Worked for the China Aerospace Science and Technology Corporation, and master the software security design. Have worked in Blockchain industry as a bottom layer developer for three years, familiar with cryptographic library, e.g., libsnark, bellman, off-chain computing/on-chain verification framework.[Daniel Song Github](https://github.com/songdan1988git)
 
 
 * Zijie Li: Three years of Internet development experience,familiar with distributed and high concurrency.Two years of block chain experience, familiar with various wallet features and consensus.Similarly, familiar with various cryptographic algorithms. e.g.,Zero—Knowledge Proof,Ellipse Curve Cryptography,etc.[Zijie Li Github](https://github.com/mcgamcga)
