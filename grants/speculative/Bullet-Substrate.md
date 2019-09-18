@@ -34,7 +34,7 @@ The high level principle is as follows.
 
 http://sperax.io
 ## Legal Structure
-.Ltd
+incorporated
 
 ## Team's experience
 [Consultant]
