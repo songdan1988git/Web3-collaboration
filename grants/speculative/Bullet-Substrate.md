@@ -39,12 +39,12 @@ http://sperax.io
 ## Team's experience
 [Consultant]
 
-* Prof Yongge Wang : currently a full-time professor at the University of North Carolina at CharlotteProfessor. Wang's proposed post-quantum cryptographic algorithm RLCE has been selected as a candidate for the post-quantum standard of the NIST. In addition, Professor Wang has been actively involved in the development of a large number of protocol standards: for example, IETF, W3C XML protocol, IEEE 1363 protocol and SAN Internet Security Protocol.In this project, Prof Yongge Wang is responsible for the optimization for the Bullet-proof.
+* Prof Yongge Wang : currently a full-time professor at the University of North Carolina at CharlotteProfessor. Wang's proposed post-quantum cryptographic algorithm RLCE has been selected as a candidate for the post-quantum standard of the NIST. In addition, Professor Wang has been actively involved in the development of a large number of protocol standards: for example, IETF, W3C XML protocol, IEEE 1363 protocol and SAN Internet Security Protocol.In this project, Prof Yongge Wang will serve as a consultant for the optimization for the Bullet-proof.
 
 
 [Develpoer]
 
-* Wenyao Hai : Familiar with common encryption and decryption algorithms for symmetric and asymmetric cryptosystems (AES, RSA, ECC), digital signatures such as ring signature aggregation signature, key management etc., proficient in the use of cryptographic algorithms and open source libraries, Familiar with PKI system, CA system and security protocol. Familiar with homomorphic encryption, zero knowledge proof, lattice cryptography. Proficient in Go/C/C++ and other languages.[Wenyao Hai Github](https://github.com/Haysemonster)
+* Wenyao Hai : Familiar with common encryption and decryption algorithms for symmetric and asymmetric cryptosystems (AES, RSA, ECC), digital signatures such as ring signature aggregation signature, key management etc., proficient in the use of cryptographic algorithms and open source libraries, Familiar with PKI system, CA system and security protocol. Familiar with homomorphic encryption, zero knowledge proof/bullet-proof, lattice cryptography. Proficient in Go/C/C++ and other languages.[Wenyao Hai Github](https://github.com/Haysemonster)
 
 * Fei Zhou : As a Java background developer for two years in Internet company, with rich experience in software background development. Engaged in blockchain development since 2017, master in exchange wallet and blockchain bottom layer development. Familiar with encryption algorithms（AES、RSA）, and proficient in using open cryptographic source libraries, and have rich experience in the development of cryptocurrency (ETH, BTC) and Dapp.[Fei Zhou Github](https://github.com/ronaldspeirs)
 
