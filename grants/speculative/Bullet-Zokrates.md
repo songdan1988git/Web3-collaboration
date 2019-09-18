@@ -34,7 +34,7 @@ The high level principle is as follows(which is form the paper of the Zokrates, 
 
 http://sperax.io
 ## Legal Structure
-.Ltd
+incorporated
 
 ## Team's experience
 
