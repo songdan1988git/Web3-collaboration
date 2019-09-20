@@ -17,11 +17,11 @@ The outstanding features of Bullet-Zokrates are following:
 The high level principle is as follows(which is form the paper of the Zokrates, but can also illustrate the points).
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/19221132/64675636-375cd080-d4a6-11e9-992e-3b9639fa9770.png" width="600px">
+<img src="https://user-images.githubusercontent.com/55379162/65234847-f6993300-db07-11e9-8219-87239f2c39b7.png" width="600px">
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/19221132/64675713-712dd700-d4a6-11e9-9011-1509f661b873.png" width="600px">
+<img src="https://user-images.githubusercontent.com/55379162/65305825-9f9e6700-dbb6-11e9-871a-ef0cee116317.png" width="600px">
 </div>
 
 ## Team Members
@@ -56,12 +56,17 @@ incorporated
 
 
 ## Development Roadmap
-The milestones are spread out over a total of 2 months as following:
-
-* M1: Implementation a new Zokrates called Bullet-Zokrates based on the Bullet-proof protocol refer to Zokrates (4 weeks)
+The milestones are spread out over a total of almost 3 months as following:
 
 
-* M2: Construct toolchain for the parachain in polkadot (4 week)
+* M1: Realize a new Zokrates module in which the proof-of-concept implementation uses the parachain (3 weeks) 
+
+* M2: Implementation a Zokrates called Bullet-Zokrates based on the Bullet-proof protocol based on the result of M1 (4 weeks)
+
+
+* M3: Construct toolchain for the parachain in polkadot (4 week)
+
+In the long term, on one hand,  we will do more enhancement of our toolchain to be compatible with other circuit generation languages , on the other hand, we will do more research on the method of optimization of the bullet-proof.
 
 
 
